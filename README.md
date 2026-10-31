@@ -1,38 +1,19 @@
 ### Hi, I'm Ege 👋
 
-Information Systems student in Türkiye. I build data tools: scrapers that turn messy public web pages into clean tables, and monitors that tell you what changed since last time.
+Third-year Information Systems student at İstanbul Okan University. I build small tools that real people use, mostly in TypeScript, and I'm moving deeper into data engineering with Python and SQL.
 
-## 🧰 The Toolbox
+**Looking for:** a Data Engineering, Data Analyst or Software Engineering internship for 2027 (İstanbul · hybrid · remote).
 
-Ready-to-run tools on the Apify Store. Pay per result, no subscription, export to CSV, Excel or JSON.
+#### What I've built
 
-### Competitor & market research
+| Project | What it is | Stack |
+|---|---|---|
+| [**Outvyr**](https://chromewebstore.google.com/detail/ebcdjhchnfokbgodjdmcbenfilbjpecm) | Chrome extension that compares each YouTube video with its channel's median to find outliers. Live, with a paid Pro plan. *(source private)* | TypeScript, Manifest V3, Vitest, Stryker |
+| [**dataset-dedup-engine**](https://github.com/ege-usta/dataset-dedup-engine) | Cleans scraped JSON: exact + fuzzy duplicate detection, URL normalization, quality score. | TypeScript, Node.js, GitHub Actions |
+| [**Apify tools**](https://apify.com/egeusta) | 23 public scrapers and data utilities; the most used has 23 users and 261 runs. | TypeScript, Apify SDK, Docker |
 
-| Tool | What it does |
-| :--- | :--- |
-| [**Google Ads Transparency Scraper**](https://apify.com/egeusta/google-ads-transparency-scraper) | Every Google ad a competitor runs, searched by brand or domain. Each ad is labelled new, stopped or continuing since your last run. Video ads come with their YouTube link and landing page. |
-| [**YouTube Creator Finder**](https://apify.com/egeusta/youtube-creator-sponsor-finder) | Find YouTube creators by topic, with subscribers, average views, upload rate, past sponsors and public contact links. |
-| [**ATS Job Scraper**](https://apify.com/egeusta/ats-job-scraper) | Open roles from Greenhouse, Lever, Ashby, Recruitee, SmartRecruiters and Personio in one table, with new and closed postings flagged. |
+#### Learning now
+Python for data · SQL (PostgreSQL, T-SQL) · building an end-to-end data pipeline
 
-### E-commerce data
-
-| Tool | What it does |
-| :--- | :--- |
-| [**E-commerce Product Scraper**](https://apify.com/egeusta/product-data-extractor) | Prices, stock, variants, ratings and images from almost any online store. Give it a homepage and it finds the products itself. |
-| [**Amazon & Trendyol Price Scraper**](https://apify.com/egeusta/marketplace-price-buybox-tracker) | Price, Buy Box seller, rating and stock, with the change since your last check. |
-| [**Shopify Price Change Monitor**](https://apify.com/egeusta/shopify-competitor-price-stock-monitor) | A Shopify store's full catalog, plus every price, stock and product change between runs. |
-| [**Shopify Store Contact Scraper**](https://apify.com/egeusta/shopify-lead-extractor) | Public emails, phones, social links and installed apps from online stores. |
-| [**XML Sitemap Scraper**](https://apify.com/egeusta/sitemap-intelligence) | Every product, category and blog URL a site lists, with last-modified dates. |
-
-### Compliance checks
-
-| Tool | What it does |
-| :--- | :--- |
-| [**Google Shopping Feed Checker**](https://apify.com/egeusta/feed-consistency-checker) | Compares your Shopping feed with your live pages and finds price and stock mismatches before Merchant Center does. |
-| [**EU Safety Gate Recall Matcher**](https://apify.com/egeusta/eu-recall-monitor) | Checks a product list against official EU recall alerts back to 2005, with the evidence for every match. |
-
-➡️ All tools: [apify.com/egeusta](https://apify.com/egeusta)
-
----
-
-<sub>Built with Python, TypeScript and a lot of respect for rate limits. Public data only.</sub>
+#### Contact
+[LinkedIn](https://www.linkedin.com/in/ege-usta-768264348) · [Apify](https://apify.com/egeusta)
